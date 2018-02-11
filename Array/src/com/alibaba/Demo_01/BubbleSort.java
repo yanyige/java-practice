@@ -16,7 +16,10 @@ public class BubbleSort {
             }
 
             bubbleSort(arr, n);
+
+            System.out.println("排序后的结果为：");
             paintArray(arr, n);
+            System.out.println("请重新输入");
         }
 
     }
