@@ -19,7 +19,7 @@ public class BubbleSort {
 
             System.out.println("排序后的结果为：");
             paintArray(arr, n);
-            System.out.println("请重新输入");
+            System.out.println("请重新输入，请输入要排序的个数n，然后输入n个数");
         }
 
     }
